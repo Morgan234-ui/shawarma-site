@@ -138,8 +138,8 @@ export default function Header() {
         </div>
 
         <div className="mobile-drawer-contact">
-          <a href="tel:+2348126201628">📞 +234 812 620 1628</a>
-          <a href="https://wa.me/2349050928447" target="_blank" rel="noopener noreferrer">
+          <a href="tel:+234 814 580 1171">📞 +234 814 580 1171</a>
+          <a href="https://wa.me/234 814 580 1171" target="_blank" rel="noopener noreferrer">
             💬 WhatsApp Us
           </a>
         </div>
