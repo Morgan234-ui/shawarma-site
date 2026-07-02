@@ -170,7 +170,7 @@ export default function SettingsPage() {
                 className="settings-input"
                 value={info.phone}
                 onChange={e => setInfo(p => ({ ...p, phone: e.target.value }))}
-                placeholder="+234 812 620 1628"
+                placeholder="+234 814 580 1171"
                 type="tel"
               />
             </div>
@@ -180,7 +180,7 @@ export default function SettingsPage() {
                 className="settings-input"
                 value={info.whatsapp}
                 onChange={e => setInfo(p => ({ ...p, whatsapp: e.target.value }))}
-                placeholder="+234 905 092 8447"
+                placeholder="+234 814 580 1171"
                 type="tel"
               />
             </div>
