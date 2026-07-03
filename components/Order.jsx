@@ -79,8 +79,9 @@ export default function Order() {
         value: `${p.name} — ₦${Number(p.price).toLocaleString()}`,
         label: `${p.name} — ₦${Number(p.price).toLocaleString()}`,
       }))
+      // this part it the list for the drop down in the order section
     : [
-        { value: 'Chicken Shawarma — ₦3,000',              label: 'Chicken Shawarma — ₦3,000' },
+        { value: 'Chicken Shawarma — ₦2,5',              label: 'Chicken Shawarma — ₦2,500' },
         { value: 'Turkey Shawarma — ₦10,000',              label: 'Turkey Shawarma — ₦10,000' },
         { value: 'Beef Shawarma — ₦4,500',                  label: 'Beef Shawarma — ₦4,500' },
         { value: 'Chicken & Sausage Shawarma — ₦3,500',    label: 'Chicken & Sausage Shawarma — ₦3,500' },
